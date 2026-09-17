@@ -81,21 +81,5 @@ BMHacker Botnet is built for both Educational and Internal use ONLY.</b>
 
 ## 🔗 ***Check this***
 
-### Subscribe our channel on youtube:
-https://www.youtube.com/BMHacker
-
 ### Chekout our webite:
-https://h1ckpro.tk
-
-## 👥 ***Join***
-
-### Telegram channel:
-https://t.me/bmh1cker
-
-### Facebook page:
-https://www.facebook.com/bmh1cker
-
-### Instagram: 
-https://www.instagram.com/bmh1cker
-
-Inspired by L3MON (https://github.com/D3VL/L3MON)
+https://nimoo.me
