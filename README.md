@@ -66,17 +66,13 @@ A cloud based remote android managment suite, powered by NodeJS
     
 It's recommended to run botnet behind a reverse proxy such as [NGINX](https://www.nginx.com/resources/wiki/start/topics/tutorials/install/)
 
-## Watch Practical Video
-- Part(1)-> https://youtu.be/wjmYOW_NtmE
-- Part(2)-> https://youtu.be/geLg46vNFKE
-- Part(3)-> https://youtu.be/R3_37GgI1IQ
 
 ## Disclaimer
 <b>BMHacker Botnet Provides no warranty with this software and will not be responsible for any direct or indirect damage caused due to the usage of this tool.<br>
 BMHacker Botnet is built for both Educational and Internal use ONLY.</b>
 
 <br>
-<p align="center">Made By <a href="//h1ckpro.tk">BM Hacker</a></p>     
+<p align="center">Made By <a href="//nimoo.me">BM Hacker</a></p>     
 <p align="center" style="font-size: 8px">v1.1.0</p>
 
 ## 🔗 ***Check this***
